@@ -38,7 +38,3 @@ I am a full-stack web developer with expertise in building responsive and intera
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jalalgirma&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jalalgirma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jalalgirma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
